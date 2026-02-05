@@ -18,6 +18,7 @@ React.js is a popular JavaScript library for building user interfaces, particula
 i dont know tho
 
 my name is jason
+<<<<<<< HEAD
 my name is not timothy tho
 
 my name is jason
@@ -26,3 +27,9 @@ my name is Juan
 my name is not jason
 
 my name is norman
+=======
+
+my name is nobody
+
+my name is Joe
+>>>>>>> feature
