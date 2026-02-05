@@ -14,3 +14,5 @@ React.js is a popular JavaScript library for building user interfaces, particula
 
 1. **Virtual DOM:** React creates an in-memory data structure cache, computes the resulting differences, and then updates the browser's displayed DOM efficiently.
 2. **JSX:** A syntax extension that allows you to write HTML structures in the same file as JavaScript code. okok
+
+my name is not timothy tho
